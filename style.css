@@ -17,10 +17,12 @@
  .botao {
     padding: 1em;
     margin: 100;
+    background-color: blue;
     color: antiquewhite;
-    }
+    display: block;
+}
+
   .botao2{
-    padding: 1em;
     background-color: transparent;
     color: antiquewhite;
   }
