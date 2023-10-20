@@ -10,9 +10,11 @@
  color: red;
  font-size: larger;
  }
+
  .letras{
     color: aliceblue;
-    font-size: larger;
+    font-size: 32px;
+    margin-bottom: 1em;
  }
  .verde{
     color: rgb(5, 243, 5);
