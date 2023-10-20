@@ -15,8 +15,10 @@
     color: green;
  }
  .botao {
- padding: 1em;
- background-color: blue;
-
-
+    padding: 1em;
+    background-color: blue;
  }
+  .botao2{
+    padding: 1em;
+    background-color: transparent;
+  }
