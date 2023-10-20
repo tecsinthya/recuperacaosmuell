@@ -17,7 +17,8 @@
  .botao {
     padding: 1em;
     background-color: blue;
- }
+    margin: 100;
+    }
   .botao2{
     padding: 1em;
     background-color: transparent;
