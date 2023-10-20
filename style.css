@@ -6,8 +6,11 @@
   
 } 
  .vermelho{
- background-color: red;
+ color: red;
  }
  .letras{
     color: aliceblue;
+ }
+ .verde{
+    color: green;
  }
