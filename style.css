@@ -20,6 +20,7 @@
     background-color: blue;
     color: antiquewhite;
     display: block;
+    margin-bottom: 100;
 }
 
   .botao2{
@@ -28,6 +29,6 @@
     border: 2px solid white;
   }
   .caixa{
-    margin: 100g;
     text-align: center;
+    
   }
